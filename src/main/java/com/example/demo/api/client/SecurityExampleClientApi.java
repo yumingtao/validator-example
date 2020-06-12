@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
  * @author yumingtao
  */
 @FeignClient(value = "client", url = "${client.baseUrl}")
-public interface ClientApi {
+public interface SecurityExampleClientApi {
     /**
      *
      * @param token
