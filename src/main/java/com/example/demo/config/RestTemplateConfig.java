@@ -1,7 +1,6 @@
 package com.example.demo.config;
 
 import com.example.demo.handler.HelloDefaultErrorHandler;
-import com.example.demo.handler.HelloErrorHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.client.ClientHttpRequestFactory;

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 /**
  * Description
  *
- * @author mingtao.yu@daimler.com
+ * @author yumingtao
  * @date 2020/6/8 13:19
  */
 @Component

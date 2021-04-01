@@ -1,11 +1,7 @@
 package com.example.demo.controller;
 
-import com.example.demo.api.dto.IntrospectionErrorResponse;
 import com.example.demo.api.dto.IntrospectionResponse;
-import com.example.demo.exceptions.OAtuhException;
 import com.example.demo.service.HelloService;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import feign.FeignException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
